@@ -8,7 +8,7 @@
     <link href="/2024/10/11/%E4%BA%94%E4%B8%80%E4%B8%93%E5%B8%96/"/>
     <url>/2024/10/11/%E4%BA%94%E4%B8%80%E4%B8%93%E5%B8%96/</url>
     
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="1afdc69957214221cee1a8a2366c4afe0207a91dd06cc656c0ce0521d4845d4f">5e591b7dd382d91472a348fcb8ec35759e25d9e0da9cbc78801b025f32c3e0cae26978f8ce063fbf3ad2161dfd36d941dc234977ebf1322a84aa44ec5028b3367d5c0d88f1ab3e3cb90d4cbb8607b1f01f46f5810e26572e671e6c8902824bee753dfbfdf3d480e9fec888c5414e342552d70f66096e44818c383f03ff48471901dbd2c663b185b10aca8b778e51d255d50ef49dbaf3a186d65b20b5019123e40330867c1b60389bffc3081dc8e11eda6e4707bcc791d550a1f7afa0f10a4314f846e041a374ccd487af86173b712326a02df19f1f8bbf5eef3d980721359294f85a5fae1ca9857caa5b3d241e47b6d03f66c53d07ca13e9b561e99f64b9a52c138e5b2253886e73a70e23b44d8cb18cdfd670e2be9a562c26f78a715b12a5a036d61f34fee832cb85cafc4de64f2d05</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="1afdc69957214221cee1a8a2366c4afe0207a91dd06cc656c0ce0521d4845d4f">5e591b7dd382d91472a348fcb8ec35759e25d9e0da9cbc78801b025f32c3e0cae26978f8ce063fbf3ad2161dfd36d941dc234977ebf1322a84aa44ec5028b3367d5c0d88f1ab3e3cb90d4cbb8607b1f01f46f5810e26572e671e6c8902824bee753dfbfdf3d480e9fec888c5414e342552d70f66096e44818c383f03ff48471901dbd2c663b185b10aca8b778e51d255d50ef49dbaf3a186d65b20b5019123e40330867c1b60389bffc3081dc8e11eda6e4707bcc791d550a1f7afa0f10a4314f846e041a374ccd487af86173b712326a02df19f1f8bbf5eef3d980721359294f85a5fae1ca9857caa5b3d241e47b6d03f66c53d07ca13e9b561e99f64b9a52c138e5b2253886e73a70e23b44d8cb18cdfd670e2be9a562c26f78a715b12a5a036d61f34fee832cb85cafc4de64f2d05</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">此文章需要密码才能查看</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
     
     
     
@@ -34,25 +34,6 @@
     <tags>
       
       <tag>投稿</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>NOI-linux2.0虚拟机安装</title>
-    <link href="/2024/10/05/NOI-linux2-0%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85/"/>
-    <url>/2024/10/05/NOI-linux2-0%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85/</url>
-    
-    <content type="html"><![CDATA[<h2 id="第一步：安装虚拟机软件"><a href="#第一步：安装虚拟机软件" class="headerlink" title="第一步：安装虚拟机软件"></a>第一步：安装虚拟机软件</h2><p>直接装VMware就行了，网上教程自己去搜。其他软件也行，但你得会用！</p><h2 id="第二步：下载镜像"><a href="#第二步：下载镜像" class="headerlink" title="第二步：下载镜像"></a>第二步：下载镜像</h2><p><a href="https://www.noi.cn/gynoi/jsgz/2021-07-16/732450.shtml">NOI下载直达</a></p><h2 id="第三步：安装"><a href="#第三步：安装" class="headerlink" title="第三步：安装"></a>第三步：安装</h2><p>这一步应该都会吧。</p><p>新建虚拟机-&gt;典型-&gt;选镜像-&gt;</p>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>系统</tag>
       
     </tags>
     
